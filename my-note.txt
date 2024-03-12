@@ -2,6 +2,8 @@ kegiatan bulan ramadhan :
 - sahur
   * bangun jam 3.30
   * masak nasi dan lauk
+   + nasi uduk
+   + telur krispi
 - Shalat
 - ngaji
 - belajar git
