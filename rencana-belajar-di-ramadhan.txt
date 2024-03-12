@@ -1,0 +1,4 @@
+belajar apa aja :
+- belajar buat reopository di git
+- buat commit di setiap tambah, ubah dan delete folder
+- buat branch sebagai opsi pengembang folder sebelum di push ke repo induk
