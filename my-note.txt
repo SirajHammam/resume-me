@@ -1,3 +1,4 @@
 kegiatan bulan ramadhan :
 - sahur
 - Shalat
+- belajar git
